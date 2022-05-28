@@ -1,9 +1,7 @@
 # Provably Confidential Language Modelling
 
 > Provably Confidential Language Modelling  
->
-> [Xuandong Zhao](https://xuandongzhao.github.io/), [Lei Li](https://sites.cs.ucsb.edu/~lilei/), [Yu-Xiang Wang](https://sites.cs.ucsb.edu/~yuxiangw/)
->
+> [Xuandong Zhao](https://xuandongzhao.github.io/), [Lei Li](https://sites.cs.ucsb.edu/~lilei/), [Yu-Xiang Wang](https://sites.cs.ucsb.edu/~yuxiangw/)  
 > NAACL 2022 (Oral)
 
 ### [Paper](https://arxiv.org/abs/2205.01863)
@@ -14,7 +12,7 @@ A pseudo-code of the algorithm:
 ![](figure/alg.png)
 
 An illustration of our proposed algorithm on a dataset with two data points:
-![](figure/alg_fig.png)
+![](figure/illus_alg.png)
 
 #### Our code will be avaiable soon!
 
