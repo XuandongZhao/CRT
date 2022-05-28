@@ -9,10 +9,10 @@
 We propose **Confidentially Redacted Training (CRT)**, a method to train language generation models while protecting the confidential segments.  We borrow ideas from differential privacy and show that our method is able to provably prevent **unintended memorization** by randomizing parts of the training process. Moreover, we show that redaction with an approximately correct screening policy amplifies the confidentiality guarantee. 
 
 A pseudo-code of the algorithm:
-![](figure/algo.png)
+![](figure/alg.png)
 
 An illustration of our proposed algorithm on a dataset with two data points:
-![](figure/fig.png)
+![](figure/alg_fig.png)
 
 #### Our code will be avaiable soon!
 
