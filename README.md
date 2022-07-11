@@ -14,7 +14,7 @@ A pseudo-code of the algorithm:
 An illustration of our proposed algorithm on a dataset with two data points:
 ![](figure/algo_fig.png)
 
-#### Our code will be avaiable soon!
+#### Our code will be available soon!
 
 ## Citation
 
