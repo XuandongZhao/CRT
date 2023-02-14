@@ -20,10 +20,11 @@ An illustration of our proposed algorithm on a dataset with two data points:
 Please cite our paper if you find CRT useful for your research:
 
 ```bibtex
-@inproceedings{zhao-etal-2022-provably,
+@inproceedings{zhao2022provably,
   title={Provably Confidential Language Modelling},
   author={Zhao, Xuandong and Li, Lei and Wang, Yu-Xiang},
   booktitle={Proceedings of the 2022 Conference of the North American Chapter of the Association for Computational Linguistics: Human Language Technologies},
+  pages={943--955},
   year={2022}
 }
 ```
